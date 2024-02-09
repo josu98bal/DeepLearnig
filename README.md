@@ -38,7 +38,7 @@ Python 3.x o superior
 
 - **`video.py`:**  Script de la deteccion de objetos y conteo de personas en areas determinadas mediante un video.
 
-- **`interfaz2.py`:**  Script de la interfaz.
+- **`interfaz2.py`:**  Script de la interfaz del proyecto.
 
 - **`deepProyect.py`:** Script final unido todo los demas proyectos
 ## Uso
